@@ -1,0 +1,16 @@
+{
+  "name": "kolme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reader.js",
+  "dependencies": {
+    "asciify-image": "^0.1.5",
+    "terminal-canvas": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
