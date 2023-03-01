@@ -4,7 +4,7 @@
   "description": "",
   "main": "reader.js",
   "dependencies": {
-    "asciify-image": "^0.1.5",
+    "asciify-image": "^0.1.9",
     "terminal-canvas": "^2.1.0"
   },
   "devDependencies": {},
